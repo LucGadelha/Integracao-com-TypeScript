@@ -1,6 +1,20 @@
-Projeto iniciado, ajustado o codigo para Typescript e feito as atualizações e ajustes, assim como um frontend para testar a integração com o backend
-a pasta "backend" foi trocada pela "backendd" pois estava causando erro.
 
-instalar depedências: npm install 
-inicializar: npm start 
-teste: npm test
+## Bem vindo! 
+
+#Projeto feito para desafio 07 da formação em tecnologia da escola DNC
+
+Veja `as instruções a baixo` para saber como começar.
+
+#instalar dependências:
+```http
+  npm install
+```
+inicializar:
+```http
+  npm start
+```
+teste
+```http
+  npm test
+```
+
