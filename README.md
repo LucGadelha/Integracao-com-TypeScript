@@ -1,7 +1,8 @@
 
-## Bem vindo! 
+# Projeto com foco na integração de sistema BackEnd com TypeScript! 
 
-#Projeto feito para desafio 07 da formação em tecnologia da escola DNC
+
+### Projeto feito para desafio 07 da formação em tecnologia da escola DNC
 
 Veja `as instruções a baixo` para saber como começar.
 
