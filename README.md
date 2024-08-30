@@ -1,21 +1,19 @@
+# Project focusing on BackEnd system integration with TypeScript! 
 
-# Projeto com foco na integração de sistema BackEnd com TypeScript! 
 
+### Project made for challenge 07 of DNC school technology training
 
-### Projeto feito para desafio 07 da formação em tecnologia da escola DNC
+See `instructions below` to learn how to get started.
 
-Veja `as instruções a baixo` para saber como começar.
-
-#instalar dependências:
+#install dependencies:
 ```http
   npm install
 ```
-inicializar:
+initialize:
 ```http
   npm start
 ```
-teste
+test
 ```http
   npm test
 ```
-
